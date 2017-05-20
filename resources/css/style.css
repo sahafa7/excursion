@@ -9,13 +9,16 @@ h1 {
 h2 {
   font-family: Verdana;
   font-weight: 300;
-  font-size: 42px
+  font-size: 42px;
+  color: white;
+  text-align: center;
 }
 
 p {
   font-family: Verdana;
   font-size: 21px;
   color: gray;
+  text-align: center;
 }
 
 #background {
@@ -26,9 +29,10 @@ p {
 #download {
   color: aquamarine;
   font-size: 16px;
+  text-align: center;
 }
 
-#copyright {
+p, class {
   text-align: right;
   color: gray;
 }
